@@ -1,0 +1,109 @@
+{
+   "checksum": "d81f4d5c03ad4b8812ebcd456b1a647b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13321187895317408",
+               "date_last_used": "0",
+               "guid": "1a746852-7507-4aef-9bae-89a09480da79",
+               "id": "5",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "https://twitter.com",
+               "type": "url",
+               "url": "https://twitter.com/"
+            }, {
+               "date_added": "13321187927136054",
+               "date_last_used": "0",
+               "guid": "a1b26e87-c4eb-4c5b-ac41-57063272e8a7",
+               "id": "7",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Facebook - log in or sign up",
+               "type": "url",
+               "url": "https://www.facebook.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13321187943254418",
+                  "date_last_used": "0",
+                  "guid": "d9efbe48-74f8-4fc6-90eb-f4d4195f46c7",
+                  "id": "8",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "GitHub: Let’s build from here · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/"
+               }, {
+                  "date_added": "13321187973000492",
+                  "date_last_used": "0",
+                  "guid": "f22e16fc-3de0-42cd-93f6-c723e3c95c87",
+                  "id": "10",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/"
+               } ],
+               "date_added": "13321187951745822",
+               "date_last_used": "0",
+               "date_modified": "13321187991318979",
+               "guid": "16828396-1fa5-442c-9fe4-c260c929671d",
+               "id": "9",
+               "name": "Programming",
+               "type": "folder"
+            } ],
+            "date_added": "13321187908661183",
+            "date_last_used": "0",
+            "date_modified": "13321187943254418",
+            "guid": "9e3990fa-baab-42f6-9e50-46d25fc0886b",
+            "id": "6",
+            "name": "Social",
+            "type": "folder"
+         } ],
+         "date_added": "13321187775922800",
+         "date_last_used": "0",
+         "date_modified": "13321187908661755",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13321187991318979",
+            "date_last_used": "0",
+            "guid": "65cb7f54-c147-466f-8d7f-79a3d342ee79",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Example Domain",
+            "type": "url",
+            "url": "https://example.com/"
+         } ],
+         "date_added": "13321187775922806",
+         "date_last_used": "0",
+         "date_modified": "13321187994440908",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13321187775922813",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 2
+}
