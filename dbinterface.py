@@ -128,7 +128,11 @@ def _add_saved_icon_mappings(
     id: int
     # Add mappings from website URLs to favicon URLs which are already
     # present in the database.
-    for url, id in iter(found.fetchone, None):
+    record: tuple[str, int]
+    for record in iter(found.fetchone, None):
+        # This makes the type checker happy.
+        assert record is not None
+        url, id = record
         writecur.execute(
             "INSERT INTO icon_mapping VALUES(?, ?, ?)", (idnum, url, id)
         )
